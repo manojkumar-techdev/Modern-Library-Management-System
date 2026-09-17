@@ -12,29 +12,29 @@ A large number of domains can be freely opted and designed for a business or sys
 
 <img width="1850" height="1300" alt="ER" src="https://github.com/user-attachments/assets/f5ef15e4-c9f9-453e-86af-9def0f7a19c5" />
 
-📂 Repository Structure
+# 📂 Repository Structure
 
 
-📌 **Features**
-✅ Create & use company database
-✅ Relational table setup (Employee, Department)
-✅ Primary and foreign key constraints
-✅ CRUD operations (Create, Read, Update, Delete)
-✅ Aggregate functions: SUM(), AVG(), GROUP BY, HAVING
-✅ JOIN queries to fetch employee and department info together
+# 📌 **Features**
+<br />✅ Create & use company database
+<br />✅ Relational table setup (Employee, Department)
+<br />✅ Primary and foreign key constraints
+<br />✅ CRUD operations (Create, Read, Update, Delete)
+<br />✅ Aggregate functions: SUM(), AVG(), GROUP BY, HAVING
+<br />✅ JOIN queries to fetch employee and department info together
 
-✨ Features
+# ✨ Features
 
-    Manage Categories
-    Manage Suppliers
-    Manage Customers
-    Manage Employees
-    Manage Products
-    Manage Orders
-    Track Order Details
-    Generate Sales Reports
-    Create SQL Views
-    Perform Business Analysis Using SQL Queries
+    **--Manage Categories**
+    --**Manage Suppliers**
+    **Manage Customers**
+    **Manage Employees**
+    **Manage Products**
+    **Manage Orders**
+    **Track Order Details**
+    **Generate Sales Reports**
+    **Create SQL Views**
+    **Perform Business Analysis Using SQL Queries**
 
 
 🛠️ Technology Stack & Tools
