@@ -61,13 +61,14 @@ A large number of domains can be freely opted and designed for a business or sys
     
 # 📈 Future Improvements
 
-    Stored Procedures
-    Triggers
-    Common Table Expressions (CTEs)
-    Window Functions
-    Indexes
-    Transactions
-    Performance Optimization
+    Front-end development 
+    API Integration
+    Advanced Backend System 
+    File Automation
+    Advance Searches
+    Online Reservation
+    Notification System
+    Web or Mobile Interface Integration
 
 # 👨‍💻 Author
 
