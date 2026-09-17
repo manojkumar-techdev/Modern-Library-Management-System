@@ -18,76 +18,77 @@ A large number of domains can be freely opted and designed for a business or sys
 Modern-Library-Management-System/
 │
 ├── README.md
-├── .gitignore
 │
 ├── sql/
 │   │
-│   ├── 00_setup/
-│   │   └── 00_create_database.sql
+│   ├── 01_setup/
+│   │   └── 00_created_database.sql
 │   │
-│   ├── 01_schema/
-│   │   ├── 01_create_authors.sql
-│   │   ├── 02_create_publishers.sql
-│   │   ├── 03_create_categories.sql
-│   │   ├── 04_create_books.sql
-│   │   ├── 05_create_members.sql
-│   │   ├── 06_create_librarians.sql
-│   │   ├── 07_create_book_copies.sql
-│   │   ├── 08_create_loans.sql
-│   │   ├── 09_create_reservations.sql
-│   │   ├── 10_create_fines.sql
-│   │   ├── 11_create_payments.sql
-│   │   ├── 12_create_reviews.sql
-│   │   └── 13_create_library_events.sql
+│   ├── 02_schema/
+│   │   ├── 01_created_tables.sql  
 │   │
-│   ├── 02_data/
-│   │   ├── 01_insert_authors.sql
-│   │   ├── 02_insert_publishers.sql
-│   │   ├── 03_insert_categories.sql
-│   │   ├── 04_insert_books.sql
-│   │   ├── 05_insert_members.sql
-│   │   ├── 06_insert_librarians.sql
-│   │   ├── 07_insert_book_copies.sql
-│   │   ├── 08_insert_loans.sql
-│   │   ├── 09_insert_reservations.sql
-│   │   ├── 10_insert_fines.sql
-│   │   ├── 11_insert_payments.sql
-│   │   ├── 12_insert_reviews.sql
-│   │   └── 13_insert_library_events.sql
+│   ├── 03_data/
+│   │   ├── 03_inserted_data_into_authors.sql
+│   │   ├── 04_inserted_data_into_publishers.sql
+│   │   ├── 05_inserted_data_into_categories.sql
+│   │   ├── 06_inserted_data_into_books.sql
+│   │   ├── 07_inserted_data_into_members.sql
+│   │   ├── 08_inserted_data_into_librarians.sql
+│   │   ├── 09_inserted_data_into_bookCopies.sql
+│   │   ├── 10_inserted_data_into_loans.sql
+│   │   ├── 11_inserted_data_into_reservations.sql
+│   │   ├── 12_inserted_data_into_fines.sql
+│   │   ├── 13_inserted_data_into_payments.sql
+│   │   ├── 14_inserted_data_into_reviews.sql
+│   │   └── 15_inserted_data_into_libraryEvents.sql
 │   │
-│   ├── 03_views/
-│   │   └── library_dashboard_view.sql
+│   ├── 04_basic_queries_and_crud/
+│   │   └── 16_basic_queries_and_crud.sq
 │   │
-│   ├── 04_procedures/
-│   │   └── search_books.sql
+│   ├── 05_joins/
+│   │   └── 17_joins.sql
 │   │
-│   ├── 05_functions/
-│   │   ├── calculate_fine.sql
-│   │   ├── get_member_total_payments.sql
-│   │   └── get_book_review_count.sql
+│   ├── 06_aggregations/
+│   │   └── 18_aggregations.sql
 │   │
-│   ├── 06_triggers/
-│   │   ├── before_loan_insert.sql
-│   │   ├── after_loan_insert.sql
-│   │   └── after_payment_insert.sql
+│   ├── 07_subqueries/
+│   │   └── 19_subqueries.sql
 │   │
-│   ├── 07_indexes/
-│   │   └── create_indexes.sql
+│   ├── 08_stored_procedures/
+│   │   └── 20_stored_procedures.sql
 │   │
-│   ├── 08_transactions/
-│   │   └── record_payment.sql
+│   ├── 09_stored_functions/
+│   │   └── 21_stored_functions.sql
 │   │
-│   ├── 09_reports/
-│   │   ├── library_summary.sql
-│   │   ├── available_books.sql
-│   │   ├── unpaid_fines.sql
-│   │   └── upcoming_events.sql
+│   ├── 10_triggers/
+│   │   └── 22_triggers.sql
 │   │
-│   └── 10_tests/
-│       ├── test_books.sql
-│       ├── test_loans.sql
-│       ├── test_payments.sql
-│       └── test_constraints.sql
+│   ├── 11_transactions/   
+│   │   └── 23_transactions.sql
+│   │     
+│   ├── 12_views/  
+│   │    └── 24_views.sql    
+    │    
+│   ├── 13_reports/       
+│   │   └── 25_reports.sql
+│   │
+│   ├── 14_inventory_management/
+│   │   └── 26_inventory_management.sql
+│   │
+│   ├── 15_reservations/
+│   │    └── 27_reservations.sql
+│   │
+│   ├── 16_fines_and_payments/
+│   │    └── 28_fines_and_payments.sql
+│   │
+│   ├── 17_library_events/
+│   │    └── 29_libraryEvents.sql
+│   │
+│   ├── 18_indexes/
+│   │  └── 30_indexes.sql
+│   │
+│   └── 19_audit_logging/
+│       └── 31_audit_logging.sql
 │
 └── docs/
     ├── database_design.md
