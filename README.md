@@ -1,11 +1,7 @@
 🏢 **Modern-Library-Management-System**
-<br />Advanced Databases M605 
+<br /><br />Advanced Databases M605 
 <br />MySQL Project
 ___________________________________________________________________________________________________________________________________________________________________
-
-
-
-
 📘 **Introduction**
 
 The project demands a design and implementation of a detailed and automated database system that can apply either SQL and/or NoSQL technologies. The main purpose of the given project is to create a modern system including hybrid mode effectively which can handle structured, semi-structured and unstructured data to fulfill the real-world design aims. 
