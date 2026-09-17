@@ -37,9 +37,9 @@ A large number of domains can be freely opted and designed for a business or sys
     Perform Business Analysis Using SQL Queries
 
 
-🛠️ Technology Stack & Tools
+# 🛠️ Technology Stack & Tools
 
-🚀 How to Run
+# 🚀 How to Run
 
     Clone this repository.
 
@@ -58,7 +58,8 @@ A large number of domains can be freely opted and designed for a business or sys
         10_Final_Business_Queries.sql
 
     Explore the generated views and business reports.
-📈 Future Improvements
+    
+# 📈 Future Improvements
 
     Stored Procedures
     Triggers
@@ -68,11 +69,9 @@ A large number of domains can be freely opted and designed for a business or sys
     Transactions
     Performance Optimization
 
-👨‍💻 Author
+# 👨‍💻 Author
 
-Pushkar Negi
+**Er. Manoj Kumar**
 
-Aspiring Data Engineer | SQL Enthusiast
-
-If you found this project helpful, please consider giving it a ⭐ on GitHub.
+Aspiring Software Developer | AI & ML Enthusiast
 
