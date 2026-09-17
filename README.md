@@ -10,6 +10,8 @@ The project demands a design and implementation of a detailed and automated data
 A large number of domains can be freely opted and designed for a business or system of personal choice which can be beneficial for current world problems. The project has to follow the modern database management system including creating database, data insertion and implementation of queries and commands for performance-based optimal results.
 
 
+<img width="940" height="661" alt="image" src="https://github.com/user-attachments/assets/c276e84e-a0a8-4611-827d-0821a0c77c8f" />
+
 Modern-Library-Management-System/
 │
 ├── README.md
