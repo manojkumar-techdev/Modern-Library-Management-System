@@ -25,9 +25,9 @@ A large number of domains can be freely opted and designed for a business or sys
 
 # ✨ Features
 
-    **--Manage Categories**
-    --**Manage Suppliers**
-    **Manage Customers**
+    **-- Manage Categories **
+    --** Manage Suppliers **
+    ** Manage Customers **
     **Manage Employees**
     **Manage Products**
     **Manage Orders**
