@@ -16,15 +16,35 @@ A large number of domains can be freely opted and designed for a business or sys
 
 
 # 📌 **Features**
-<br />✅ Create & use company database
-<br />✅ Relational table setup (Employee, Department)
 <br />✅ Primary and foreign key constraints
 <br />✅ CRUD operations (Create, Read, Update, Delete)
-<br />✅ Aggregate functions: SUM(), AVG(), GROUP BY, HAVING
-<br />✅ JOIN queries to fetch employee and department info together
+<br />✅Database Creation 
+<br />✅Tables 
+<br />✅Primary Keys 
+<br />✅Foreign Keys 
+<br />✅Constraints 
+<br />✅Sample Data 
+<br />✅Basic Queries 
+<br />✅Inner, Left & Right Joins 
+<br />✅Aggregation 
+<br />✅Subqueries 
+<br />✅Stored Procedures 
+<br />✅Stored Functions 
+<br />✅Triggers 
+<br />✅Transactions 
+<br />✅Indexes 
+<br />✅Views 
+<br />✅Management Reports 
+<br />✅Inventory Management 
+<br />✅Reservations 
+<br />✅Fines & Payments 
+<br />✅Reviews 
+<br />✅Library Events 
+<br />✅Suppliers & Acquisitions 
+<br />✅Audit Logging
+
 
 # ✨ **Features**
-
     Manage Categories
     Manage Suppliers
     Manage Customers
@@ -38,9 +58,10 @@ A large number of domains can be freely opted and designed for a business or sys
 
 
 # 🛠️ Technology Stack & Tools
+⚙️ SQL Language
+⚙️ MySQL Software
 
 # 🚀 How to Run
-
     Clone this repository.
 
     Open SQL Server Management Studio (SSMS).
@@ -60,7 +81,6 @@ A large number of domains can be freely opted and designed for a business or sys
     Explore the generated views and business reports.
     
 # 📈 Future Improvements
-
     Front-end development 
     API Integration
     Advanced Backend System 
