@@ -13,16 +13,88 @@ A large number of domains can be freely opted and designed for a business or sys
 <img width="1850" height="1300" alt="ER" src="https://github.com/user-attachments/assets/f5ef15e4-c9f9-453e-86af-9def0f7a19c5" />
 
 # 📂 Repository Structure
-<pre>
-|________README.md
-|
-|________LICENSE
-|
-|________docs
-|
-|________sql
-<pre />
-
+<div>
+    <pre>
+Modern-Library-Management-System/
+│
+├── README.md
+├── .gitignore
+│
+├── sql/
+│   │
+│   ├── 00_setup/
+│   │   └── 00_create_database.sql
+│   │
+│   ├── 01_schema/
+│   │   ├── 01_create_authors.sql
+│   │   ├── 02_create_publishers.sql
+│   │   ├── 03_create_categories.sql
+│   │   ├── 04_create_books.sql
+│   │   ├── 05_create_members.sql
+│   │   ├── 06_create_librarians.sql
+│   │   ├── 07_create_book_copies.sql
+│   │   ├── 08_create_loans.sql
+│   │   ├── 09_create_reservations.sql
+│   │   ├── 10_create_fines.sql
+│   │   ├── 11_create_payments.sql
+│   │   ├── 12_create_reviews.sql
+│   │   └── 13_create_library_events.sql
+│   │
+│   ├── 02_data/
+│   │   ├── 01_insert_authors.sql
+│   │   ├── 02_insert_publishers.sql
+│   │   ├── 03_insert_categories.sql
+│   │   ├── 04_insert_books.sql
+│   │   ├── 05_insert_members.sql
+│   │   ├── 06_insert_librarians.sql
+│   │   ├── 07_insert_book_copies.sql
+│   │   ├── 08_insert_loans.sql
+│   │   ├── 09_insert_reservations.sql
+│   │   ├── 10_insert_fines.sql
+│   │   ├── 11_insert_payments.sql
+│   │   ├── 12_insert_reviews.sql
+│   │   └── 13_insert_library_events.sql
+│   │
+│   ├── 03_views/
+│   │   └── library_dashboard_view.sql
+│   │
+│   ├── 04_procedures/
+│   │   └── search_books.sql
+│   │
+│   ├── 05_functions/
+│   │   ├── calculate_fine.sql
+│   │   ├── get_member_total_payments.sql
+│   │   └── get_book_review_count.sql
+│   │
+│   ├── 06_triggers/
+│   │   ├── before_loan_insert.sql
+│   │   ├── after_loan_insert.sql
+│   │   └── after_payment_insert.sql
+│   │
+│   ├── 07_indexes/
+│   │   └── create_indexes.sql
+│   │
+│   ├── 08_transactions/
+│   │   └── record_payment.sql
+│   │
+│   ├── 09_reports/
+│   │   ├── library_summary.sql
+│   │   ├── available_books.sql
+│   │   ├── unpaid_fines.sql
+│   │   └── upcoming_events.sql
+│   │
+│   └── 10_tests/
+│       ├── test_books.sql
+│       ├── test_loans.sql
+│       ├── test_payments.sql
+│       └── test_constraints.sql
+│
+└── docs/
+    ├── database_design.md
+    ├── entity_relationship_diagram.png
+    └── project_report.pdf
+    </pre>
+<div />
 
 # 📌 **Features**
 <br />✅ Primary and foreign key constraints
