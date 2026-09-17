@@ -1,5 +1,5 @@
 🏢 **Modern-Library-Management-System**
-______________________________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________
 Advanced Databases M605 <br />MySQL Project
 
 
@@ -17,6 +17,67 @@ A large number of domains can be freely opted and designed for a business or sys
 
 <img width="1850" height="1300" alt="ER" src="https://github.com/user-attachments/assets/f5ef15e4-c9f9-453e-86af-9def0f7a19c5" />
 
+📂 Repository Structure
+
 
 📌 **Features**
+✅ Create & use company database
+✅ Relational table setup (Employee, Department)
+✅ Primary and foreign key constraints
+✅ CRUD operations (Create, Read, Update, Delete)
+✅ Aggregate functions: SUM(), AVG(), GROUP BY, HAVING
+✅ JOIN queries to fetch employee and department info together
+
+✨ Features
+
+    Manage Categories
+    Manage Suppliers
+    Manage Customers
+    Manage Employees
+    Manage Products
+    Manage Orders
+    Track Order Details
+    Generate Sales Reports
+    Create SQL Views
+    Perform Business Analysis Using SQL Queries
+
+
+🛠️ Technology Stack & Tools
+
+🚀 How to Run
+
+    Clone this repository.
+
+    Open SQL Server Management Studio (SSMS).
+
+    Execute the SQL scripts in the following order:
+        01_Create_Database.sql
+        02_Create_Tables.sql
+        03_Insert_Data.sql
+        04_Basic_SELECT.sql
+        05_JOINS.sql
+        06_SET_OPERATORS.sql
+        07_FUNCTIONS.sql
+        08_GROUPBY_HAVING.sql
+        09_VIEWS.sql
+        10_Final_Business_Queries.sql
+
+    Explore the generated views and business reports.
+📈 Future Improvements
+
+    Stored Procedures
+    Triggers
+    Common Table Expressions (CTEs)
+    Window Functions
+    Indexes
+    Transactions
+    Performance Optimization
+
+👨‍💻 Author
+
+Pushkar Negi
+
+Aspiring Data Engineer | SQL Enthusiast
+
+If you found this project helpful, please consider giving it a ⭐ on GitHub.
 
