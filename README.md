@@ -1,4 +1,4 @@
-🏢 #Modern-Library-Management-System
+🏢 **Modern-Library-Management-System**
 ______________________________________________________________________________________________________________________________________________________________________
 Advanced Databases M605 <br />MySQL Project
 
