@@ -23,18 +23,18 @@ A large number of domains can be freely opted and designed for a business or sys
 <br />✅ Aggregate functions: SUM(), AVG(), GROUP BY, HAVING
 <br />✅ JOIN queries to fetch employee and department info together
 
-# ✨ Features
+# ✨ **Features**
 
-    **-- Manage Categories **
-    --** Manage Suppliers **
-    ** Manage Customers **
-    **Manage Employees**
-    **Manage Products**
-    **Manage Orders**
-    **Track Order Details**
-    **Generate Sales Reports**
-    **Create SQL Views**
-    **Perform Business Analysis Using SQL Queries**
+    Manage Categories
+    Manage Suppliers
+    Manage Customers
+    Manage Employees
+    Manage Products
+    Manage Orders
+    Track Order Details
+    Generate Sales Reports
+    Create SQL Views
+    Perform Business Analysis Using SQL Queries
 
 
 🛠️ Technology Stack & Tools
