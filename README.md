@@ -82,7 +82,7 @@ Modern-Library-Management-System/
 │   │    └── 28_fines_and_payments.sql
 │   │
 │   ├── 17_library_events/
-│   │    └── 29_libraryEvents.sql
+│   │    └── 29_library_events.sql
 │   │
 │   ├── 18_indexes/
 │   │  └── 30_indexes.sql
