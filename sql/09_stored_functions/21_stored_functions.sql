@@ -8,7 +8,7 @@ CREATE FUNCTION CalculateFine(
     p_return_date DATE
 )
 RETURNS DECIMAL(10,2)
-NOT DETERMINISTIC
+DETERMINISTIC
 BEGIN
 
     DECLARE v_late_days INT;
