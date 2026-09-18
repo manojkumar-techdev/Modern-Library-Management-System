@@ -17,7 +17,9 @@ A large number of domains can be freely opted and designed for a business or sys
     <pre>
 Modern-Library-Management-System/
 │
-├── README.md
+├── docs/
+│   ├── project_report.pdf  
+│   └── entity_relationship_diagram.png  
 │
 ├── sql/
 │   │
@@ -90,10 +92,17 @@ Modern-Library-Management-System/
 │   └── 19_audit_logging/
 │       └── 31_audit_logging.sql
 │
+├── LICENCE
+│
+|
+├── README.md
+|
+│
+├── all_project_queries.zip
+│
+|       
 └── docs/
-    ├── database_design.md
-    ├── entity_relationship_diagram.png
-    └── project_report.pdf
+
     </pre>
 <div />
 
