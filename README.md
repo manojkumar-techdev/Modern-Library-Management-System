@@ -126,7 +126,7 @@ Modern-Library-Management-System/
 <br />✅Audit Logging
 
 
-# ✨ **Features**
+# ✨ **Objectives**
     Manage Categories
     Manage Suppliers
     Manage Customers
